@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 <p align="left">  
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://www.php.net/">
@@ -75,11 +75,11 @@ Here are some ideas to get you started:
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white" />
   </a>   
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white" />
   </a> 
    &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 ### 👉 Databases
 <p align="left">
   &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white"></a>
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white"/></a>
  </p>
  
   
@@ -104,7 +104,7 @@ Here are some ideas to get you started:
   </a> 
   &emsp;
   <a href="Git" target="_blank"> 
-    <img alt="Adobe Indesign" src="https://img.shields.io/badge/Git-orange.svg?style=flat&logo=Git&logoColor=white"/> 
+    <img alt="Git" src="https://img.shields.io/badge/Git-orange.svg?style=flat&logo=Git&logoColor=white"/> 
   </a> 
     &emsp;
  </p>
