@@ -113,7 +113,7 @@ Here are some ideas to get you started:
 <p align="center">
 	<a href="mailto:jivkovvesselin@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/GritzMaze"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.discord.com/"><img src="https://img.icons8.com/bubbles/50/000000/discord.png" alt="GritzMaze#7945" title="GritzMaze#7945/></a>
+	<a href="https://www.discord.com/"><img src="https://img.icons8.com/bubbles/50/000000/discord.png" alt="GritzMaze#7945" title="GritzMaze#7945"/></a>
 	<a href="https://www.instagram.com/vesselin.jivkov/?hl=en"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	
 </p>
