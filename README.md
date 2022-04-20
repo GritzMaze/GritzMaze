@@ -52,23 +52,23 @@ Here are some ideas to get you started:
 <p align="left">  
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"/>
+    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white" />
   </a>
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"/>
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white" />
   </a>
   &emsp;
   <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white" />
   </a>
   &emsp;
   <a href="https://developer.mozilla.org/">
-    <img alt="JavaScript" src="https://shields.io/badge/JavaScript-orange.svg?logo=JavaScript&logoColor=white"/>
+    <img alt="JavaScript" src="https://shields.io/badge/JavaScript-orange.svg?logo=JavaScript&logoColor=white" />
   </a>
   &emsp;
   <a href="https://nodejs.org/">
-    <img alt="Node.js" src="https://shields.io/badge/Node.js-green.svg?logo=Node.js&logoColor=white"/>
+    <img alt="Node.js" src="https://shields.io/badge/Node.js-green.svg?logo=Node.js&logoColor=white" />
   </a>
 </p>
 
@@ -84,14 +84,14 @@ Here are some ideas to get you started:
   </a> 
    &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" />
   </a>
 </p>
 
 ### 👉 Databases
 <p align="left">
   &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white"/></a>
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white" /></a>
  </p>
  
   
@@ -101,11 +101,11 @@ Here are some ideas to get you started:
   	
   
    <a href="https://www.linux.org/" target="_blank"> 
-    <img alt="Linux" src="https://shields.io/badge/Linux-blue.svg?logo=Linux&logoColor=white"/>
+    <img alt="Linux" src="https://shields.io/badge/Linux-blue.svg?logo=Linux&logoColor=white" />
   </a> 
   &emsp;
   <a href="Git" target="_blank"> 
-    <img alt="Git" src="https://img.shields.io/badge/Git-orange.svg?style=flat&logo=Git&logoColor=white"/> 
+    <img alt="Git" src="https://img.shields.io/badge/Git-orange.svg?style=flat&logo=Git&logoColor=white" /> 
   </a> 
     &emsp;
  </p>
