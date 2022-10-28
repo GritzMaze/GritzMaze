@@ -116,6 +116,6 @@ Here are some ideas to get you started:
 	<a href="https://github.com/GritzMaze"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.discord.com/"><img src="https://img.icons8.com/bubbles/50/000000/discord.png" alt="GritzMaze#7945" title="GritzMaze#7945"/></a>
 	<a href="https://www.instagram.com/vesselin.jivkov/?hl=en"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://www.instagram.com/vesselin.jivkov/?hl=en"><img src="https://img.icons8.com/bubbles/50/000000/lnikedin.png" alt="Instagram"/></a>
+	<a href="https://www.linkedin.com/in/vesselin-jivkov/"><img src="https://img.icons8.com/bubbles/50/000000/lnikedin.png" alt="Linked In"/></a>
 	
 </p>
