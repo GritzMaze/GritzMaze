@@ -70,6 +70,10 @@ Here are some ideas to get you started:
   <a href="https://nodejs.org/">
     <img alt="Node.js" src="https://shields.io/badge/Node.js-green.svg?logo=Node.js&logoColor=white" />
   </a>
+  &emsp;
+  <a href="https://www.typescriptlang.org/">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-blue.svg?style=flat&logo=typescript&logoColor=white" />
+  </a>
 </p>
 
 ### 👉 Frontend Development
@@ -86,12 +90,24 @@ Here are some ideas to get you started:
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" />
   </a>
+   &emsp;
+  <a href="https://angularjs.org/" target="_blank"> 
+    <img alt="AngularJS" src="https://img.shields.io/badge/AngularJS-d72b33.svg?style=flat&logo=angularjs&logoColor=white" />
+  </a>
+  &emsp;
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img alt="ReactJS" src="https://img.shields.io/badge/ReactJS-white.svg?style=flat&logo=react&logoColor=blue" />
+  </a>
 </p>
 
 ### 👉 Databases
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white" /></a>
+ </p>
+<p align="left">
+  &emsp;
+    <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-blue.svg?style=flat&logo=postgresql&logoColor=white" /></a>
  </p>
  
   
