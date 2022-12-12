@@ -104,8 +104,6 @@ Here are some ideas to get you started:
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white" /></a>
- </p>
-<p align="left">
   &emsp;
     <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-blue.svg?style=flat&logo=postgresql&logoColor=white" /></a>
  </p>
